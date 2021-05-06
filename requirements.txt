@@ -10,6 +10,6 @@ Flask-SQLAlchemy==2.4.1
 Flask-Migrate==2.5.2
 Flask-Script==2.0.6
 marshmallow==3.3.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 python-dotenv==0.10.5
 firebase-admin==3.2.1
